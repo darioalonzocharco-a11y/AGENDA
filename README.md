@@ -5,7 +5,7 @@
 - **Nombre de la App:** Agenda Movil
 - **Asignatura/Profesor:** Desarrollo de Aplicaciones Móviles / M.C. Leonel González Vidales
 - **Periodo/Fecha:** Septiembre 2025
-- **URL del Repositorio:** https://github.com/l3onet/movies-explorer-app
+- **URL del Repositorio:** https://github.com/darioalonzocharco-a11y/AGENDA
 
 ## 2. Descripción del Proyecto
 
@@ -106,7 +106,7 @@ agenda/
 ### Instalación de Dependencias:
 ```bash
 # Clonar el repositorio
-git clone https://github.com/l3onet/movies-explorer-app
+git clone https://github.com/darioalonzocharco-a11y/AGENDA
 cd movies-explorer-app
 
 # Instalar dependencias
@@ -173,7 +173,7 @@ npx expo start --web
 
 ## 7. Funcionalidades de la Aplicación
 
-### Pantalla Principal (MoviesListScreen):
+### Pantalla Principal (AgendaScreen):
 - **LOS EVENTOS AGENDADOS**: Muestra Algunos ejemplos , pero puedes agregar el evento que tengas.
 - **Información Básica**: Eventos,la hora, la fecha y año.
 - **Navegación**: Agregar o borrar  evento o modificar.
@@ -181,7 +181,7 @@ npx expo start --web
 
 ![Pantalla1](screenshots/pantalla1.jpg)
 
-### Pantalla de Detalles (MovieDetailScreen):
+### Pantalla de Detalles (AgendaDetailScreen):
 - **Calendario**: Año , mes y dia  
 - **Hora local**: te muestra para seleccionar a que hora tienes ese pendiente
 - **Botones de agregar y borrar**: son los las funciones que vienen por defecto.
