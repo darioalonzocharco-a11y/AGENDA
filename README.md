@@ -186,7 +186,7 @@ npx expo start --web
 - **Hora local**: te muestra para seleccionar a que hora tienes ese pendiente
 - **Botones de agregar y borrar**: son los las funciones que vienen por defecto.
 
-![Pantalla2](screenshots/pantalla2.jpg)
+![Pantalla2](screenshots/pantalla3.jpg)
 
 ### Características Técnicas:
 - **Navegación Stack**: Transiciones suaves entre pantallas
